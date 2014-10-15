@@ -1,4 +1,4 @@
-# flask-traceur
+# webassets-traceur
 [![PyPi Version](https://pypip.in/v/webassets-traceur/badge.png)](https://pypi.python.org/pypi/webassets-traceur)
 ![PyPi Downloads](https://pypip.in/d/webassets-traceur/badge.png)
 > An additional webassets filter to compile ES6 to ES5 using traceur.

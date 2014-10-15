@@ -6,7 +6,7 @@ from imp import load_source
 
 setup(
     name='webassets-traceur',
-    version=load_source('', 'src/webassets_traceur/_version.py').__version__,
+    version=load_source('', 'webassets_traceur/_version.py').__version__,
     description='An additional webassets filter to compile ES6 to ES5 '
                 'using traceur.',
     classifiers=[
